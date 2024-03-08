@@ -3,7 +3,7 @@
 ## Problem Statement
 Formula 1 (F1) racing is one of the most prestigious and technologically advanced motorsports in the world. With its global fanbase, every season brings excitement and anticipation. In this project, we aim to conduct exploratory data analysis (EDA) on F1 race data to gain insights into various aspects of the sport. The dataset comprises information on races, drivers, teams, circuits, lap times, weather conditions, and more.
 
-![Alt text](https://github.com/msinghsandhu/Road-Accident-Analysis-Using-Power-BI/blob/main/Main.png?raw=true)
+![Alt text](https://github.com/msinghsandhu/F1/blob/main/F1.png?raw=true)
 
 * A complete analysis on F1 Race happened from 1950-2022.
 * Various plots which include bar, line, area chart has been used to get insights of race.
